@@ -1,6 +1,6 @@
 # Project: Este é um projeto Academico - UTFPR - Toledo
 
-![](img/refactor/versaoAtual.png)
+![](assets/img/refactor/versaoAtual.png)
 
 >Site atual da Prefeitura de Toledo - PR 2020 
 
