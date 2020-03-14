@@ -38,6 +38,3 @@ Nesse projeto, fizemos uso de HTML5 e CSS3, e algumas pequenas implementações 
 
 Github [https://github.com/digomes87](https://github.com/digomes87/) 
 
-See this project here [https://github.com/digomes87/wttd-eventex](Bike)
-
-Version for preview [https://eventex-diego.herokuapp.com] (Eventex In heroku)
